@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NicheVinDecoder.Core.Models;
+﻿using NicheVinDecoder.Core.Models;
 
 namespace NicheVinDecoder.Core.Interfaces
 {
