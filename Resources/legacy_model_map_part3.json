@@ -1,0 +1,142 @@
+{
+  "GMC": {
+    "make": "GMC (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "15": "Sierra 1500",
+      "25": "Sierra 2500",
+      "35": "Sierra 3500",
+      "45": "Suburban / Jimmy",
+      "55": "Cab Chassis / TopKick"
+    },
+    "notes": "GMC light- and medium-truck VINs 1968-1980, digits 2-5 = series."
+  },
+
+  "HDA": {
+    "make": "Honda (Automobiles – Japan and USA)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "SA": "Civic 1200",
+      "SB": "Civic 1500",
+      "SF": "Accord Hatchback",
+      "SK": "Accord Sedan",
+      "SN": "Prelude 1G"
+    },
+    "notes": "Honda 1973-1980 car chassis letters appear positions 4-6."
+  },
+
+  "HDM": {
+    "make": "Harley-Davidson (USA Motorcycles)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "XL": "Sportster series",
+      "FL": "Electra Glide / Tour series",
+      "FX": "Super Glide / Low Rider",
+      "XR": "XR race series"
+    },
+    "notes": "Harley frame codes, roughly positions 3-5, 1970-1980."
+  },
+
+  "HYN": {
+    "make": "Hyundai (Korea)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "PC": "Pony Coupe",
+      "PH": "Pony Hatchback",
+      "EX": "Excel prototype"
+    },
+    "notes": "Early Hyundai 1975-1980 local codes 4-6."
+  },
+
+  "ISU": {
+    "make": "Isuzu (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "KB": "Faster Pickup / KB",
+      "LF": "Florian",
+      "PR": "Gemini / Bellett",
+      "TX": "Truck TX Series"
+    },
+    "notes": "Isuzu VINs 1970-1980 positions 4-6 = series letters."
+  },
+
+  "ITA": {
+    "make": "International Harvester (USA)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "10": "Scout 800 / II",
+      "11": "Travelall",
+      "12": "Pickup 100 / 150 / 200"
+    },
+    "notes": "IH 1970s truck VINs positions 3-5."
+  },
+
+  "JAG": {
+    "make": "Jaguar (UK)",
+    "model_position_range": [6, 8],
+    "model_map": {
+      "1S": "E-Type Series 3",
+      "2G": "XJ6 Series 2",
+      "2J": "XJ12 Series 2",
+      "3A": "XJ-S V12"
+    },
+    "notes": "Jaguar 1970-1980 VINs 6-8 = model family."
+  },
+
+  "JEE": {
+    "make": "Jeep (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "40": "CJ-5 / CJ-7",
+      "50": "Wagoneer",
+      "60": "Cherokee",
+      "70": "J-Series Truck"
+    },
+    "notes": "AMC/Jeep 1970-1980 positions 3-6 = model line."
+  },
+
+  "KAW": {
+    "make": "Kawasaki (Japan Motorcycles)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "Z1": "900 Z1",
+      "KZ": "KZ Series",
+      "KH": "KH Series",
+      "GP": "GPZ Series"
+    },
+    "notes": "Kawasaki 1972-1980 frame codes positions 4-6."
+  },
+
+  "KEN": {
+    "make": "Kenworth (USA Trucks)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "W9": "W900 Conventional",
+      "K1": "K100 Cabover",
+      "T6": "T600 Prototype"
+    },
+    "notes": "Kenworth truck VINs positions 2-5 ≈ model family."
+  },
+
+  "KIA": {
+    "make": "Kia (Korea)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "BD": "Brisa",
+      "PA": "Pride",
+      "SE": "Sephia"
+    },
+    "notes": "Early Kia 1975-1980 frame prefixes positions 4-6."
+  },
+
+  "KUB": {
+    "make": "Kubota (Japan Tractors)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "B60": "B-Series Compact Tractor",
+      "L22": "L-Series Utility",
+      "M50": "M-Series Agricultural"
+    },
+    "notes": "Kubota equipment VIN positions 3-6 ≈ model series."
+  }
+}

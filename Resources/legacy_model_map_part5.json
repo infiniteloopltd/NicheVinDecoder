@@ -1,0 +1,117 @@
+{
+  "OLM": {
+    "make": "Oldsmobile (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "35": "Cutlass / 442",
+      "37": "Cutlass Supreme Coupe",
+      "47": "Cutlass Sedan",
+      "57": "Vista Cruiser Wagon",
+      "67": "Delta 88",
+      "69": "Ninety-Eight"
+    },
+    "notes": "Oldsmobile 1968–1979: 2–5 digits identify series and body."
+  },
+
+  "OPE": {
+    "make": "Opel (Germany)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "A01": "Kadett B/C",
+      "A11": "Ascona A",
+      "A17": "Manta A",
+      "A19": "Rekord D",
+      "A22": "Commodore B"
+    },
+    "notes": "Opel 1968–1980: 3–6 digits denote chassis series."
+  },
+
+  "PEU": {
+    "make": "Peugeot (France)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "30": "304",
+      "40": "404",
+      "50": "504",
+      "60": "604"
+    },
+    "notes": "Peugeot VINs 3–5 digits identify model family."
+  },
+
+  "PLY": {
+    "make": "Plymouth (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "23": "Barracuda",
+      "29": "Satellite / Road Runner",
+      "41": "Duster / Valiant",
+      "61": "Fury / Gran Fury",
+      "65": "Volare"
+    },
+    "notes": "Plymouth 1966–1978: 3–6 = series/body."
+  },
+
+  "PON": {
+    "make": "Pontiac (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "23": "Firebird",
+      "37": "LeMans / GTO Coupe",
+      "47": "Grand Prix",
+      "57": "Bonneville",
+      "67": "Catalina Convertible"
+    },
+    "notes": "Pontiac 1968–1979: positions 2–5 mark model line."
+  },
+
+  "POR": {
+    "make": "Porsche (Germany)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "911": "911 Coupe / Targa",
+      "912": "912",
+      "930": "911 Turbo",
+      "924": "924",
+      "928": "928"
+    },
+    "notes": "Porsche 1969–1980 VINs 4–6 = model series."
+  },
+
+  "REN": {
+    "make": "Renault (France)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "110": "R4",
+      "112": "R6",
+      "113": "R8 / R10",
+      "115": "R12",
+      "122": "R16",
+      "127": "R17",
+      "132": "R18"
+    },
+    "notes": "Renault 1965–1980 VINs 3–6 identify model type."
+  },
+
+  "ROL": {
+    "make": "Rolls-Royce / Bentley (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "SBH": "Silver Shadow RHD",
+      "CBH": "Corniche RHD",
+      "LRC": "Camargue LHD",
+      "BXG": "T2 Series Bentley"
+    },
+    "notes": "Rolls-Royce/Bentley chassis prefixes 1965–1980."
+  },
+
+  "ROV": {
+    "make": "Rover (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "P5B": "P5B 3.5 Litre",
+      "P6B": "P6 3500",
+      "SD1": "Rover 3500 / SD1"
+    },
+    "notes": "Rover 1968–1980 chassis codes 4–6 = model series."
+  }
+}

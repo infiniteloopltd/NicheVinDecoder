@@ -105,10 +105,10 @@ namespace NicheVinDecoder.Manufacturers
 
             try
             {
-                // Position 4: Make
+                // Position 4: make
                 if (MakeMap.TryGetValue(vin[3], out var make))
                 {
-                    result.AdditionalProperties["Make"] = make;
+                    result.AdditionalProperties["make"] = make;
                 }
                 else
                 {
@@ -192,8 +192,8 @@ namespace NicheVinDecoder.Manufacturers
                 }
 
                 // Generate a descriptive model name
-                var makeDesc = result.AdditionalProperties.ContainsKey("Make")
-                    ? result.AdditionalProperties["Make"].ToString()
+                var makeDesc = result.AdditionalProperties.ContainsKey("make")
+                    ? result.AdditionalProperties["make"].ToString()
                     : "Unknown";
 
                 var lineDesc = result.AdditionalProperties.ContainsKey("LineModel")

@@ -151,10 +151,10 @@ namespace NicheVinDecoder.Manufacturers
                     result.Warnings.Add(new VinDecodingWarning($"Unknown trailer type code: {vin[3]}"));
                 }
 
-                // Position 5: Make
+                // Position 5: make
                 if (MakeMap.TryGetValue(vin[4], out var make))
                 {
-                    result.AdditionalProperties["Make"] = make;
+                    result.AdditionalProperties["make"] = make;
                 }
                 else
                 {
@@ -260,8 +260,8 @@ namespace NicheVinDecoder.Manufacturers
                 }
 
                 // Generate a descriptive model name
-                var makeDesc = result.AdditionalProperties.ContainsKey("Make")
-                    ? result.AdditionalProperties["Make"].ToString()
+                var makeDesc = result.AdditionalProperties.ContainsKey("make")
+                    ? result.AdditionalProperties["make"].ToString()
                     : "Highland Ridge";
 
                 var modelDesc = result.AdditionalProperties.ContainsKey("ModelDescription")

@@ -1,0 +1,172 @@
+{
+  "LOT": {
+    "make": "Lotus Cars (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "36": "Elan +2",
+      "50": "Europa",
+      "54": "Esprit S1/S2",
+      "79": "Elite / Eclat"
+    },
+    "notes": "Lotus 1967–1980 chassis numbers positions 4–6 = model project number."
+  },
+
+  "TVR": {
+    "make": "TVR (UK)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "30": "3000M",
+      "31": "Taimar",
+      "32": "Tasmin 280i"
+    },
+    "notes": "TVR 1970–1980 VINs 3–5 ≈ model series."
+  },
+
+  "MOR2": {
+    "make": "Morgan (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "44": "4/4",
+      "80": "Plus 8",
+      "11": "Plus 4"
+    },
+    "notes": "Morgan 1965–1980 chassis digits 3–6 = engine series."
+  },
+
+  "REL": {
+    "make": "Reliant (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "REB": "Regal",
+      "ROB": "Robin",
+      "SCA": "Scimitar GTE"
+    },
+    "notes": "Reliant VINs 1970–1980 3–6 mark model type."
+  },
+
+  "SIM": {
+    "make": "Simca / Talbot (France)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "110": "1000 / 1100",
+      "130": "1301 / 1501",
+      "161": "1307 / 1308",
+      "180": "Chrysler 180"
+    },
+    "notes": "Simca 1965–1980 3–6 digits identify type; later Talbot reused pattern."
+  },
+
+  "INO": {
+    "make": "Innocenti (Italy)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "100": "Mini Innocenti",
+      "120": "Mini 120",
+      "130": "Regent"
+    },
+    "notes": "Innocenti Italian-built Mini derivatives 1965–1980."
+  },
+
+  "ISO": {
+    "make": "Iso Rivolta (Italy)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "300": "Grifo",
+      "350": "Lele",
+      "400": "Fidia"
+    },
+    "notes": "Iso Rivolta 1965–1975 VINs 3–6 = displacement/type."
+  },
+
+  "BOR": {
+    "make": "Borgward (Germany)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "23": "Isabella",
+      "24": "Hansa 2400"
+    },
+    "notes": "Borgward 1958–1970 legacy codes for completeness."
+  },
+
+  "NSU": {
+    "make": "NSU (Germany)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "110": "Prinz 4 / 1000",
+      "120": "Ro 80"
+    },
+    "notes": "NSU VINs before Audi merger."
+  },
+
+  "HIN": {
+    "make": "Hino (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "BM": "Contessa",
+      "TE": "Briska Pickup"
+    },
+    "notes": "Hino Motors Japan pre-Toyota era."
+  },
+
+  "PRI": {
+    "make": "Prince (Japan)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "S4": "Skyline S4",
+      "R3": "Gloria R30"
+    },
+    "notes": "Prince Motors Japan before Nissan acquisition."
+  },
+
+  "GAZ": {
+    "make": "GAZ (Russia)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "21": "Volga 21",
+      "24": "Volga 24",
+      "69": "GAZ-69"
+    },
+    "notes": "GAZ USSR 1960–1980 VIN digits 3–6 = model series."
+  },
+
+  "MOS": {
+    "make": "Moskvitch (USSR)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "408": "Moskvitch 408",
+      "412": "Moskvitch 412",
+      "2140": "Moskvitch 2140"
+    },
+    "notes": "AZLK Moskvitch 1965–1980 type codes 3–6."
+  },
+
+  "ZIL": {
+    "make": "ZIL (USSR Trucks)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "130": "ZIL-130 Truck",
+      "131": "ZIL-131 6×6"
+    },
+    "notes": "ZIL industrial truck VIN patterns 1960–1980."
+  },
+
+  "CHK": {
+    "make": "Checker Motors (USA)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "A11": "Marathon",
+      "A12": "Taxi Special"
+    },
+    "notes": "Checker cabs 1960–1980 internal A11/A12 chassis numbers."
+  },
+
+  "STU": {
+    "make": "Studebaker (USA)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "64": "Lark",
+      "78": "Avanti"
+    },
+    "notes": "Studebaker 1959–1966 late VINs included for completeness."
+  }
+}

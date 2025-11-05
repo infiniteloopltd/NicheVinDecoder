@@ -1,0 +1,144 @@
+{
+  "SAA": {
+    "make": "Saab (Sweden)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "95": "95 Wagon",
+      "96": "96 Sedan",
+      "99": "99 Saloon",
+      "900": "900 Classic"
+    },
+    "notes": "Saab 1965–1980 VINs 4–6 = model series."
+  },
+
+  "SCO": {
+    "make": "Scania (Sweden – Trucks)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "110": "110 Series",
+      "111": "111 Streamline",
+      "140": "140 V8",
+      "141": "141 V8"
+    },
+    "notes": "Scania 1970–1980 truck VINs 3–6 mark engine/series."
+  },
+
+  "SEA": {
+    "make": "SEAT (Spain)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "124": "124 / 1430",
+      "127": "127",
+      "131": "131 Mirafiori (Fiat license)",
+      "132": "132",
+      "133": "133 Small Saloon"
+    },
+    "notes": "SEAT pre-1981 mirrored Fiat numeric series."
+  },
+
+  "SKO": {
+    "make": "Škoda (Czechoslovakia)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "10": "100 / 110",
+      "11": "110R Coupe",
+      "12": "105 / 120",
+      "13": "130 Rapid"
+    },
+    "notes": "Škoda 1968–1980 VIN digits 3–5 = series."
+  },
+
+  "SUB": {
+    "make": "Subaru (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "A10": "Leone Coupe",
+      "A12": "Leone Sedan",
+      "A13": "Station Wagon",
+      "EA6": "Brat / Brumby"
+    },
+    "notes": "Subaru 1972–1980: chassis code positions 4–6."
+  },
+
+  "SUZ": {
+    "make": "Suzuki (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "SJ4": "Jimny LJ/SJ 4WD",
+      "TA7": "Alto",
+      "GC2": "Carry Van",
+      "GT2": "Carry Truck"
+    },
+    "notes": "Suzuki 1970–1980: 4–6 = series letters."
+  },
+
+  "TOY": {
+    "make": "Toyota (Japan)",
+    "model_position_range": [4, 7],
+    "model_map": {
+      "KE": "Corolla KE-series",
+      "TE": "Corolla TE-series",
+      "RN": "Hilux RN",
+      "TA": "Celica TA",
+      "RA": "Celica RA",
+      "MA": "Supra MA",
+      "BJ": "Land Cruiser BJ",
+      "FJ": "Land Cruiser FJ"
+    },
+    "notes": "Toyota 1968–1980 VIN positions 4–7 = chassis code."
+  },
+
+  "TRI": {
+    "make": "Triumph (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "CP": "TR6",
+      "CC": "TR6 US-spec",
+      "CF": "TR6 Late",
+      "CH": "Spitfire 1500",
+      "LD": "Dolomite"
+    },
+    "notes": "Triumph 1968–1980 frame codes 4–6."
+  },
+
+  "VOL": {
+    "make": "Volkswagen (Germany)",
+    "model_position_range": [1, 5],
+    "model_map": {
+      "11": "Beetle Sedan",
+      "13": "Beetle Cabriolet",
+      "21": "Type 2 Bus",
+      "22": "Type 2 Pickup",
+      "31": "Type 3 Fastback",
+      "32": "Type 3 Squareback",
+      "33": "Type 3 Notchback",
+      "41": "Karmann Ghia Coupe",
+      "42": "Karmann Ghia Convertible"
+    },
+    "notes": "VW 1955–1979: first 2 digits = type."
+  },
+
+  "VOV": {
+    "make": "Volvo (Sweden)",
+    "model_position_range": [3, 5],
+    "model_map": {
+      "42": "240 Sedan",
+      "45": "240 Wagon",
+      "46": "260 Coupe",
+      "47": "260 Sedan"
+    },
+    "notes": "Volvo 1974–1980 digits 3–5 = series/body."
+  },
+
+  "VUX": {
+    "make": "Vauxhall (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "HCV": "Viva HC",
+      "FDV": "Victor FD",
+      "FEV": "Victor FE / VX4/90",
+      "CAB": "Cavalier Mk1"
+    },
+    "notes": "Vauxhall 1970–1980 VIN positions 3–6 = model code."
+  }
+}

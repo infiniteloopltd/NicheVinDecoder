@@ -1,0 +1,195 @@
+{
+  "AAV": {
+    "make": "Volkswagen (South Africa)",
+    "model_position_range": [1, 5],
+    "model_map": {
+      "11": "Beetle Sedan",
+      "13": "Beetle Cabriolet",
+      "21": "Type 2 Bus",
+      "22": "Type 2 Pickup"
+    },
+    "notes": "South-African VW assembly mirrored German Type codes."
+  },
+
+  "AC9": {
+    "make": "Holden / Chevrolet (Australia)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "HX": "Holden Kingswood HX",
+      "HZ": "Holden Statesman HZ",
+      "WB": "Holden WB Ute"
+    },
+    "notes": "Australian GM codes from local CKD VINs."
+  },
+
+  "AFM": {
+    "make": "Aston Martin (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "540": "DB5",
+      "545": "DB6",
+      "547": "V8 Vantage",
+      "550": "Lagonda"
+    },
+    "notes": "Aston Martin chassis identifiers used mid-1960s–1980."
+  },
+
+  "AHL": {
+    "make": "Alpina BMW (Germany)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "E12": "B7 Turbo",
+      "E21": "C1 2.3",
+      "E24": "B9 Coupe"
+    },
+    "notes": "Special BMW performance VINs; same layout as WBA."
+  },
+
+  "ALF": {
+    "make": "Alfa Romeo (early prefix)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "105": "Giulia GT",
+      "115": "Spider 2000",
+      "116": "Alfetta",
+      "118": "Giulietta Nuova"
+    },
+    "notes": "Pre-ZAR Alfa Romeo chassis numbers."
+  },
+
+  "AMC": {
+    "make": "American Motors Corporation (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "60": "Gremlin",
+      "70": "Hornet",
+      "80": "Concord",
+      "90": "Javelin/AMX",
+      "98": "Pacer"
+    },
+    "notes": "AMC 1970-1980; third–sixth digits mark line/series."
+  },
+
+  "AUD": {
+    "make": "Audi (Germany)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "80": "Audi 80 / Fox",
+      "82": "Audi 100",
+      "85": "Audi 200",
+      "89": "Coupe GT"
+    },
+    "notes": "Pre-1981 Audi numeric model codes."
+  },
+
+  "AUS": {
+    "make": "Austin / BMC (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "ADO16": "Austin 1100/1300",
+      "ADO17": "Austin 1800 / Landcrab",
+      "ADO20": "Maxi",
+      "ADO71": "Princess"
+    },
+    "notes": "BMC internal ADO project numbers appear in VIN."
+  },
+
+  "BMC": {
+    "make": "British Leyland / Morris (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "ADO15": "Mini Classic",
+      "ADO50": "Mini Clubman",
+      "ADO65": "Marina",
+      "ADO71": "Princess / 1800"
+    },
+    "notes": "Same convention as Austin—pre-Leyland merger."
+  },
+
+  "BMW": {
+    "make": "BMW (Germany legacy prefix)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "114": "E9 Coupe",
+      "115": "E12 5-Series",
+      "116": "E21 3-Series",
+      "118": "E24 6-Series"
+    },
+    "notes": "Early chassis numbers before standard WBA codes."
+  },
+
+  "BSA": {
+    "make": "BSA (UK Motorcycles)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "A65": "Lightning / Thunderbolt",
+      "B44": "Victor",
+      "B25": "Starfire"
+    },
+    "notes": "BSA frame codes 1965-1972."
+  },
+
+  "BU1": {
+    "make": "Buick (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "37": "Skylark Coupe",
+      "47": "Century Sedan",
+      "57": "LeSabre Wagon",
+      "67": "Riviera Coupe"
+    },
+    "notes": "GM A/B-body Buick lines, 1968–1979."
+  },
+
+  "CAD": {
+    "make": "Cadillac (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "47": "Fleetwood Sedan",
+      "67": "Eldorado",
+      "69": "DeVille",
+      "89": "Seville"
+    },
+    "notes": "Cadillac 1968–1979; second–fifth digits identify body."
+  },
+
+  "CHE": {
+    "make": "Chevrolet (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "17": "Nova / Chevy II",
+      "27": "Camaro",
+      "37": "Chevelle Coupe",
+      "47": "Malibu Sedan",
+      "57": "Wagon",
+      "67": "Convertible",
+      "87": "Monte Carlo Coupe"
+    },
+    "notes": "Chevrolet 1968-1979: 2–5 digits = series/body style."
+  },
+
+  "CHY": {
+    "make": "Chrysler (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "23": "Newport",
+      "27": "New Yorker",
+      "29": "Cordoba",
+      "41": "Valiant / Dart",
+      "61": "Imperial"
+    },
+    "notes": "Chrysler 1966-1979: 3–6 = series/body code."
+  },
+
+  "CIT": {
+    "make": "Citroën (France)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "DY": "2CV Dyane",
+      "DS": "DS / ID",
+      "GS": "GS / GSA",
+      "CX": "CX Series"
+    },
+    "notes": "Citroën internal type codes in VIN 1965-1980."
+  }
+}

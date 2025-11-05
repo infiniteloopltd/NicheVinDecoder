@@ -1,0 +1,148 @@
+{
+  "DAC": {
+    "make": "Dacia (Romania)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "130": "1300 / 1310",
+      "110": "1100 / 1107"
+    },
+    "notes": "Romanian Renault-based models; 3–6 = series digits."
+  },
+
+  "DAI": {
+    "make": "Daihatsu (Japan)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "F10": "Charade F10",
+      "F20": "Taft",
+      "S38": "Hijet"
+    },
+    "notes": "Daihatsu 1970-1980 small-car chassis codes."
+  },
+
+  "DE1": {
+    "make": "De Lorean (Northern Ireland)",
+    "model_position_range": [6, 8],
+    "model_map": {
+      "VIN": "DMC-12"
+    },
+    "notes": "All De Lorean VINs map to DMC-12 (1981 model start)."
+  },
+
+  "DGE": {
+    "make": "Dodge (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "23": "Challenger",
+      "27": "Charger",
+      "29": "Coronet / Monaco",
+      "41": "Dart / Aspen",
+      "61": "Polara",
+      "62": "Royal Monaco"
+    },
+    "notes": "Dodge 1966-1979: 3–6 = series/body style."
+  },
+
+  "DMC": {
+    "make": "Detroit Diesel / Truck Codes (USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "600": "Heavy Truck Series 600",
+      "700": "Heavy Truck Series 700"
+    },
+    "notes": "Generic placeholder for U.S. medium-heavy truck VINs."
+  },
+
+  "DUC": {
+    "make": "Ducati Motor Holdings (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "860": "860 GT",
+      "900": "900 SS / Darmah",
+      "500": "500 Pantah"
+    },
+    "notes": "Motorcycle frame numbers 1974-1980."
+  },
+
+  "EAG": {
+    "make": "Eagle (AMC Division USA)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "40": "SX/4 Hatchback",
+      "41": "Eagle Sedan",
+      "45": "Eagle Wagon"
+    },
+    "notes": "AMC Eagle 1980 launch; carries AMC VIN format."
+  },
+
+  "FER": {
+    "make": "Ferrari (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "246": "Dino 246 GT/GTS",
+      "308": "308 GTB/GTS",
+      "365": "365 GT 4 2+2",
+      "400": "400 Automatic",
+      "512": "512 BB"
+    },
+    "notes": "Ferrari 1970-1980 chassis codes (positions 4-6)."
+  },
+
+  "FIAT": {
+    "make": "Fiat (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "124": "124 Spider / Sport",
+      "125": "125 Saloon",
+      "126": "126 City Car",
+      "127": "127 Supermini",
+      "128": "128 Saloon / Coupe",
+      "131": "131 Mirafiori",
+      "132": "132 Executive",
+      "238": "238 Van",
+      "242": "242 Van (Large)"
+    },
+    "notes": "Fiat 1968-1980: 4-6 = model series."
+  },
+
+  "FOR": {
+    "make": "Ford (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "01": "Fairlane / Torino",
+      "02": "Falcon",
+      "03": "Mustang Coupe",
+      "04": "Mustang Convertible",
+      "05": "Thunderbird",
+      "10": "F-100 Truck",
+      "13": "F-250 Truck",
+      "15": "F-350 Truck",
+      "31": "Torino / Gran Torino",
+      "33": "LTD",
+      "35": "Maverick",
+      "38": "Elite"
+    },
+    "notes": "Ford 1965-1979 VINs use positions 2-5 for series/body code."
+  },
+
+  "FRA": {
+    "make": "Frazer-Nash (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "T20": "Targa",
+      "LMP": "Le Mans Replica"
+    },
+    "notes": "Low-volume UK sports cars 1970s."
+  },
+
+  "FRT": {
+    "make": "Freightliner (USA Trucks)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "100": "FL Series Cabover",
+      "120": "Conventional",
+      "350": "Heavy Duty Wrecker"
+    },
+    "notes": "Truck series positions 2-5."
+  }
+}

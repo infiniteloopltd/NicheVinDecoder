@@ -1,0 +1,889 @@
+{
+  "194": {
+    "make": "Chevrolet Corvette (USA)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "1A": {
+    "make": "Chevrolet (USA)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1B": {
+    "make": "Pontiac (USA)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1C": {
+    "make": "Chrysler (USA)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "1D": {
+    "make": "Dodge (USA)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "1E": {
+    "make": "AMC / Eagle (USA)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1968,
+    "year_sequence": "8,9,0,1,2,3,4,5,6,7,8,9"
+  },
+  "1F": {
+    "make": "Ford (USA)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "1G": {
+    "make": "General Motors (USA, multi-division)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1H": {
+    "make": "Honda (USA production)",
+    "vin_length": [11, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "1J": {
+    "make": "Jeep (USA)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9"
+  },
+  "1L": {
+    "make": "Lincoln (USA)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "1M": {
+    "make": "Mercury (USA)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "1N": {
+    "make": "Nissan/Datsun (USA import coding)",
+    "vin_length": [10, 12, 13],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1P": {
+    "make": "Plymouth (USA)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "1R": {
+    "make": "Buick (USA)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1S": {
+    "make": "Subaru (USA coding)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "1T": {
+    "make": "Toyota (USA coding)",
+    "vin_length": [10, 12, 13],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "1V": {
+    "make": "Volkswagen (USA coding)",
+    "vin_length": [9, 10, 13],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+  "1Y": {
+    "make": "Mazda (USA coding)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "1Z": {
+    "make": "Chevrolet (Corvette-specific usage, legacy)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "2A": {
+    "make": "Pontiac (Canada)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "2C": {
+    "make": "Chevrolet (Canada)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "2F": {
+    "make": "Ford (Canada)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "2G": {
+    "make": "General Motors (Canada)",
+    "vin_length": [13, 14],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "2M": {
+    "make": "Mercury (Canada)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "2T": {
+    "make": "Toyota (Canada)",
+    "vin_length": [10, 12, 13],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "2V": {
+    "make": "Volkswagen (Canada)",
+    "vin_length": [9, 10, 13],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "3A": {
+    "make": "Chevrolet (Mexico)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "3B": {
+    "make": "Buick (Mexico)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "3C": {
+    "make": "Chrysler (Mexico)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "3D": {
+    "make": "Dodge (Mexico)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "3G": {
+    "make": "GM (Mexico)",
+    "vin_length": [13],
+    "year_position": 6,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "3H": {
+    "make": "Honda (Mexico)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "3N": {
+    "make": "Nissan (Mexico)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "3P": {
+    "make": "Plymouth (Mexico)",
+    "vin_length": [13],
+    "year_position": 7,
+    "start_year": 1970,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L"
+  },
+  "3V": {
+    "make": "Volkswagen (Mexico)",
+    "vin_length": [9, 10, 13],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "4A": {
+    "make": "Audi (USA-coded)",
+    "vin_length": [11, 13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "4F": {
+    "make": "Mazda (USA-coded)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "4M": {
+    "make": "Mercury (USA)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "4S": {
+    "make": "Subaru (USA-coded)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "4T": {
+    "make": "Toyota (USA-coded)",
+    "vin_length": [10, 12, 13],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "4V": {
+    "make": "Volvo (USA-coded)",
+    "vin_length": [11, 13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+
+  "5F": {
+    "make": "Honda (USA/Ohio)",
+    "vin_length": [11, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "5G": {
+    "make": "General Motors (USA)",
+    "vin_length": [13, 14, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "5L": {
+    "make": "Lincoln (USA)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1960,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "5N": {
+    "make": "Hyundai (USA-coded)",
+    "vin_length": [17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "5T": {
+    "make": "Toyota (USA California)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+
+  "6F": {
+    "make": "Ford (Australia)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1965,
+    "year_sequence": "E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "6H": {
+    "make": "Holden (Australia)",
+    "vin_length": [11, 13],
+    "year_position": 6,
+    "start_year": 1965,
+    "year_sequence": "E,F,G,H,J,K,L,M,N,P,Q,R,S,T,V,W,X"
+  },
+  "6T": {
+    "make": "Toyota (Australia)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "6U": {
+    "make": "Nissan (Australia)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "7A": {
+    "make": "New Zealand Multi-assembly",
+    "vin_length": [11, 13],
+    "notes": "Local assembly identifiers; year often not encoded consistently. Use model/plate records."
+  },
+
+  "8A": {
+    "make": "Chevrolet/Fiat (Argentina legacy usage)",
+    "vin_length": [13],
+    "notes": "Local legacy ID schemes varied; year decoding not reliable via single position."
+  },
+  "8AD": {
+    "make": "Peugeot (Argentina)",
+    "vin_length": [13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "8AF": {
+    "make": "Fiat (Argentina)",
+    "vin_length": [13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "8AG": {
+    "make": "General Motors (Argentina)",
+    "vin_length": [13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "8AJ": {
+    "make": "Toyota (Argentina)",
+    "vin_length": [10, 12, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "8AW": {
+    "make": "Volkswagen (Argentina)",
+    "vin_length": [9, 10, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+
+  "9BF": {
+    "make": "Ford (Brazil)",
+    "vin_length": [11, 13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "9BG": {
+    "make": "GM (Brazil)",
+    "vin_length": [11, 13, 17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "9BM": {
+    "make": "Mercedes-Benz (Brazil)",
+    "vin_length": [14, 17],
+    "notes": "Legacy chassis formats without explicit year code; for 17-char, use 10th."
+  },
+  "9BW": {
+    "make": "Volkswagen (Brazil)",
+    "vin_length": [9, 10, 17],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "AAV": {
+    "make": "Volkswagen (South Africa)",
+    "vin_length": [9, 10, 17],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "JH": {
+    "make": "Honda (Japan)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "JK": {
+    "make": "Kawasaki (Japan, motorcycles)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,0"
+  },
+  "JM": {
+    "make": "Mazda (Japan)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "JN": {
+    "make": "Nissan/Datsun (Japan)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "JS": {
+    "make": "Suzuki (Japan)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,0"
+  },
+  "JT": {
+    "make": "Toyota (Japan)",
+    "vin_length": [10, 12, 13],
+    "year_position": 4,
+    "start_year": 1970,
+    "year_sequence": "0,1,2,3,4,5,6,7,8,9"
+  },
+  "JY": {
+    "make": "Yamaha (Japan, motorcycles)",
+    "vin_length": [10, 12],
+    "year_position": 4,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,0"
+  },
+
+  "KL": {
+    "make": "Daewoo / GM Korea",
+    "vin_length": [17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "KM": {
+    "make": "Hyundai (Korea)",
+    "vin_length": [17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+  "KN": {
+    "make": "Kia (Korea)",
+    "vin_length": [17],
+    "year_position": 10,
+    "start_year": 1980,
+    "year_sequence": "A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4,5,6,7,8,9"
+  },
+
+  "LBG": {
+    "make": "Geely (China)",
+    "vin_length": [17],
+    "notes": "Legacy pre-1981 Chinese VINs uncommon; use 17-char 10th for year."
+  },
+  "LBV": {
+    "make": "BMW Brilliance (China)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "LDC": {
+    "make": "Dongfeng (China)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "LSG": {
+    "make": "SAIC GM (China)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "LSV": {
+    "make": "SAIC Volkswagen (China)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "LTV": {
+    "make": "FAW Toyota (China JV)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "LVH": {
+    "make": "Honda (China JV)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "MA3": {
+    "make": "Maruti Suzuki (India)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MA6": {
+    "make": "Mahindra (India)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MAL": {
+    "make": "Hyundai (India)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MAT": {
+    "make": "Tata Motors (India)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "MLC": {
+    "make": "Mitsubishi (Thailand)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MMB": {
+    "make": "Mitsubishi (Thailand)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MPA": {
+    "make": "Isuzu (Thailand)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "MP1": {
+    "make": "Mazda (Thailand)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "PL1": {
+    "make": "Proton (Malaysia)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "PNV": {
+    "make": "Perodua (Malaysia)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "SAJ": {
+    "make": "Jaguar (UK)",
+    "vin_length": [10, 12, 17],
+    "year_position": 7,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,A"
+  },
+  "SAL": {
+    "make": "Land Rover (UK)",
+    "vin_length": [10, 12, 17],
+    "year_position": 7,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,A"
+  },
+  "SAR": {
+    "make": "Rover (UK)",
+    "vin_length": [10, 12],
+    "year_position": 7,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,A"
+  },
+  "SBC": {
+    "make": "Rolls-Royce/Bentley (UK)",
+    "vin_length": [10, 12, 14],
+    "notes": "Pre-1981 often lacks year character; use build records."
+  },
+  "SCC": {
+    "make": "Lotus (UK)",
+    "vin_length": [10, 12],
+    "year_position": 7,
+    "start_year": 1971,
+    "year_sequence": "1,2,3,4,5,6,7,8,9,A"
+  },
+  "SCE": {
+    "make": "DeLorean (Northern Ireland)",
+    "vin_length": [13, 17],
+    "notes": "Use 10th character for 17-char; early prototypes use build records."
+  },
+  "SDB": {
+    "make": "Austin/Morris (UK)",
+    "vin_length": [10, 12],
+    "notes": "BMC legacy chassis numbers; year often not in a fixed position."
+  },
+  "SDN": {
+    "make": "Triumph (UK)",
+    "vin_length": [10, 12],
+    "notes": "Use commission/chassis tables for year."
+  },
+  "SJN": {
+    "make": "Nissan (UK, Sunderland)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "TMB": {
+    "make": "Škoda (Czechoslovakia)",
+    "vin_length": [10, 12, 17],
+    "notes": "Legacy chassis numbers older than ~1980: use model tables; 17-char uses 10th."
+  },
+
+  "UU1": {
+    "make": "Dacia/Renault (Romania)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "VF1": {
+    "make": "Renault (France)",
+    "vin_length": [10, 12, 17],
+    "notes": "Pre-1981 often chassis-based; for 17-char use 10th."
+  },
+  "VF3": {
+    "make": "Peugeot (France)",
+    "vin_length": [10, 12, 17],
+    "notes": "Pre-1981 may lack fixed year code; for 17-char use 10th."
+  },
+  "VF7": {
+    "make": "Citroën (France)",
+    "vin_length": [10, 12, 17],
+    "notes": "Pre-1981 DS/2CV chassis systems; for 17-char use 10th."
+  },
+  "VF8": {
+    "make": "Matra (France)",
+    "vin_length": [10, 12],
+    "notes": "Use model-year tables."
+  },
+
+  "VNE": {
+    "make": "IVECO (Italy)",
+    "vin_length": [14, 17],
+    "notes": "Older trucks/buses: year via build sheets; 17-char uses 10th."
+  },
+  "VSK": {
+    "make": "Nissan (Spain)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "VS6": {
+    "make": "Ford (Spain)",
+    "vin_length": [10, 12, 17],
+    "notes": "Legacy European Ford year codes vary; 17-char uses 10th."
+  },
+  "VSS": {
+    "make": "SEAT (Spain)",
+    "vin_length": [10, 12, 17],
+    "notes": "Pre-1981: use model tables; 17-char uses 10th."
+  },
+  "VS7": {
+    "make": "Citroën (Spain)",
+    "vin_length": [10, 12, 17],
+    "notes": "Pre-1981: chassis records; 17-char uses 10th."
+  },
+
+  "W0L": {
+    "make": "Opel/Vauxhall (Germany)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: many chassis formats; 17-char uses 10th."
+  },
+  "WAU": {
+    "make": "Audi (Germany)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: use model tables; 17-char uses 10th."
+  },
+  "WBA": {
+    "make": "BMW (Germany)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: 7-digit/11-digit chassis numbers; no fixed year code."
+  },
+  "WBS": {
+    "make": "BMW M GmbH (Germany)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "WDB": {
+    "make": "Mercedes-Benz (Germany)",
+    "vin_length": [14, 17],
+    "notes": "Pre-1981: no explicit year character; decode via model (e.g., 107.044) and production records."
+  },
+  "WDC": {
+    "make": "Mercedes-Benz (Germany, SUVs later)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "WF0": {
+    "make": "Ford (Germany)",
+    "vin_length": [11, 13, 17],
+    "notes": "Legacy European Ford year codes vary; 17-char uses 10th."
+  },
+  "WMA": {
+    "make": "MAN (Germany, trucks)",
+    "vin_length": [14, 17],
+    "notes": "Older trucks: year via build records; 17-char uses 10th."
+  },
+  "WPO": {
+    "make": "Porsche (Germany)",
+    "vin_length": [10, 12, 14, 17],
+    "notes": "Pre-1981: VINs often lack a single year digit; use model/year ranges; 17-char uses 10th."
+  },
+  "WP0": {
+    "make": "Porsche (Germany, alt format)",
+    "vin_length": [10, 12, 17],
+    "notes": "Same as WPO."
+  },
+  "WV2": {
+    "make": "Volkswagen Commercial (Germany)",
+    "vin_length": [9, 10, 17],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+  "WVW": {
+    "make": "Volkswagen (Germany)",
+    "vin_length": [9, 10, 17],
+    "year_position": 3,
+    "start_year": 1969,
+    "year_sequence": "9,0,1,2,3,4,5,6,7,8,9"
+  },
+
+  "XLB": {
+    "make": "Volvo (Netherlands/Belgium assembly)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: use model tables; 17-char uses 10th."
+  },
+  "XL9": {
+    "make": "Spyker (Netherlands, later)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+  "XTA": {
+    "make": "Lada/AvtoVAZ (Russia)",
+    "vin_length": [10, 12, 17],
+    "notes": "Legacy chassis numbers; 17-char uses 10th."
+  },
+  "XWB": {
+    "make": "GAZ (Russia)",
+    "vin_length": [14, 17],
+    "notes": "Older trucks: build records; 17-char uses 10th."
+  },
+
+  "YS2": {
+    "make": "Scania (Sweden)",
+    "vin_length": [14, 17],
+    "notes": "Older trucks: build records; 17-char uses 10th."
+  },
+  "YS3": {
+    "make": "Saab (Sweden)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: chassis systems; 17-char uses 10th."
+  },
+  "YV1": {
+    "make": "Volvo (Sweden)",
+    "vin_length": [11, 13, 17],
+    "notes": "Pre-1981: model tables; 17-char uses 10th."
+  },
+  "YV2": {
+    "make": "Volvo Trucks (Sweden)",
+    "vin_length": [14, 17],
+    "notes": "Older trucks: build records; 17-char uses 10th."
+  },
+  "YK1": {
+    "make": "Koenigsegg (Sweden, later)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  },
+
+  "ZAA": {
+    "make": "Autobianchi (Italy)",
+    "vin_length": [10, 12, 14],
+    "notes": "Use model/chassis tables for year."
+  },
+  "ZAM": {
+    "make": "Maserati (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: no fixed year char; 17-char uses 10th."
+  },
+  "ZAR": {
+    "make": "Alfa Romeo (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: type/chassis decode; 17-char uses 10th."
+  },
+  "ZBN": {
+    "make": "Lancia (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: type/chassis decode; 17-char uses 10th."
+  },
+  "ZFA": {
+    "make": "Fiat (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: type/chassis decode; 17-char uses 10th."
+  },
+  "ZFC": {
+    "make": "Fiat Professional (Italy)",
+    "vin_length": [14, 17],
+    "notes": "Trucks/vans: use 10th for 17-char."
+  },
+  "ZFF": {
+    "make": "Ferrari (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: build records; 17-char uses 10th."
+  },
+  "ZHW": {
+    "make": "Lamborghini (Italy)",
+    "vin_length": [12, 14, 17],
+    "notes": "Pre-1981: build records; 17-char uses 10th."
+  },
+  "ZLA": {
+    "make": "Lancia (Italy, alt code)",
+    "vin_length": [12, 14],
+    "notes": "Use model/chassis tables."
+  },
+  "ZDM": {
+    "make": "Ducati (Italy, motorcycles)",
+    "vin_length": [10, 12, 17],
+    "notes": "Older bikes: engine/frame records; 17-char uses 10th."
+  },
+  "VBK": {
+    "make": "KTM (Austria, motorcycles)",
+    "vin_length": [17],
+    "notes": "Use 10th character for 17-char years."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "LAD": {
+    "make": "Lada / AvtoVAZ (Russia)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "2101": "Lada 1200 / Zhiguli",
+      "2103": "Lada 1500",
+      "2105": "Lada Riva / Nova",
+      "2121": "Lada Niva"
+    },
+    "notes": "AvtoVAZ 1970–1980 chassis numbers, 3–6 = model series."
+  },
+
+  "LAM": {
+    "make": "Lamborghini (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "400": "Espada / Jarama",
+      "500": "Countach LP500",
+      "LM0": "LM002"
+    },
+    "notes": "Lamborghini 1970–1980 VINs 4–6 denote model family."
+  },
+
+  "LAN": {
+    "make": "Lancia (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "037": "037 Rally",
+      "828": "Beta",
+      "831": "Delta",
+      "838": "Gamma"
+    },
+    "notes": "Lancia chassis type codes positions 4–6."
+  },
+
+  "LRO": {
+    "make": "Land Rover (UK)",
+    "model_position_range": [5, 7],
+    "model_map": {
+      "88": "Series II/III 88 inch",
+      "109": "Series II/III 109 inch",
+      "RRC": "Range Rover Classic"
+    },
+    "notes": "Land Rover 1968–1980 VINs 5–7 = series code."
+  },
+
+  "LEX": {
+    "make": "Lexus (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "LS": "LS 400",
+      "ES": "ES 250",
+      "GS": "GS 300"
+    },
+    "notes": "Early Lexus (Toyota) VINs 1989 onward share Toyota scheme."
+  },
+
+  "LIN": {
+    "make": "Lincoln (USA)",
+    "model_position_range": [2, 5],
+    "model_map": {
+      "35": "Continental",
+      "38": "Mark IV / V",
+      "39": "Town Car",
+      "42": "Versailles"
+    },
+    "notes": "Lincoln 1970–1980 positions 2–5 = series/body."
+  },
+
+  "MAS": {
+    "make": "Maserati (Italy)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "AM1": "Indy",
+      "AM2": "Khamsin",
+      "AM3": "Bora",
+      "AM4": "Merak",
+      "AM5": "Kyalami"
+    },
+    "notes": "Maserati 1969–1980 AM project codes positions 4–6."
+  },
+
+  "MAZ": {
+    "make": "Mazda (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "FA": "Familia / 323",
+      "SA": "Savanna / RX-3",
+      "LA": "RX-4 / 929",
+      "CB": "Capella / 626",
+      "HC": "Luce / 929"
+    },
+    "notes": "Mazda 1970–1980 VINs 4–6 = chassis letters."
+  },
+
+  "MBZ": {
+    "make": "Mercedes-Benz (Germany)",
+    "model_position_range": [1, 6],
+    "model_map": {
+      "107": "SL (R107)",
+      "108": "S-Class (W108)",
+      "109": "S-Class (W109 Air)",
+      "114": "E-Class (W114)",
+      "115": "E-Class Diesel (W115)",
+      "116": "S-Class (W116)",
+      "123": "E-Class (W123)",
+      "460": "G-Wagen (W460)"
+    },
+    "notes": "Mercedes chassis numbers: first 3 digits = series."
+  },
+
+  "MGB": {
+    "make": "MG Cars (UK)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "GHN": "MGB Roadster",
+      "GHD": "MGB GT",
+      "ADO": "MG Metro",
+      "GD2": "Midget 1500"
+    },
+    "notes": "MG VINs 1962–1980 4–6 = series prefix."
+  },
+
+  "MIT": {
+    "make": "Mitsubishi Motors (Japan)",
+    "model_position_range": [4, 6],
+    "model_map": {
+      "A70": "Galant A70",
+      "L20": "Lancer L20",
+      "P00": "Pajero Prototype",
+      "T10": "Tredia / Cordia"
+    },
+    "notes": "Mitsubishi 1970–1980 VINs 4–6 = series identifier."
+  },
+
+  "MOR": {
+    "make": "Morris / Austin-Morris (UK)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "ADO15": "Mini Classic",
+      "ADO50": "Mini Clubman",
+      "ADO71": "Princess",
+      "ADO28": "Marina"
+    },
+    "notes": "British Leyland ADO codes 3–6 = internal project series."
+  },
+
+  "NIS": {
+    "make": "Nissan / Datsun (Japan)",
+    "model_position_range": [3, 6],
+    "model_map": {
+      "510": "Bluebird 510",
+      "610": "Bluebird 610",
+      "620": "Pickup 620",
+      "710": "Violet 710",
+      "810": "Bluebird 810",
+      "S30": "240Z / 260Z / 280Z"
+    },
+    "notes": "Nissan 1968–1980 3-digit series code 3–6."
+  }
+}

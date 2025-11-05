@@ -1,0 +1,42 @@
+{
+  "194": {
+    "make": "Chevrolet Corvette (C3)",
+    "model_position_range": [ 4, 5 ],
+    "model_map": {
+      "37": "Corvette Coupe",
+      "67": "Corvette Convertible"
+    },
+    "notes": "Applies to 1968–1975 Chevrolet Corvette; positions 4–5 (37/67) identify body style."
+  },
+
+  "136": {
+    "make": "Chevrolet Chevelle / Malibu",
+    "model_position_range": [ 4, 5 ],
+    "model_map": {
+      "35": "Chevelle Coupe",
+      "45": "Malibu Sedan",
+      "55": "Wagon"
+    },
+    "notes": "Chevelle 1968–1972 VINs: 4–5 digits indicate body style."
+  },
+
+  "138": {
+    "make": "Chevrolet SS / El Camino",
+    "model_position_range": [ 4, 5 ],
+    "model_map": {
+      "37": "Chevelle SS Coupe",
+      "80": "El Camino Pickup"
+    },
+    "notes": "Chevrolet Super Sport / El Camino models 1968–1972."
+  },
+
+  "124": {
+    "make": "Chevrolet Camaro",
+    "model_position_range": [ 4, 5 ],
+    "model_map": {
+      "37": "Camaro Coupe",
+      "67": "Camaro Convertible"
+    },
+    "notes": "Applies to 1967–1974 Camaro VINs starting with 124."
+  }
+}

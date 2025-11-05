@@ -1,4 +1,5 @@
 ﻿using NicheVinDecoder.Core.Factory;
+using NicheVinDecoder.Legacy;
 using NUnit.Framework;
 
 namespace NicheVinDecoder
@@ -109,7 +110,7 @@ namespace NicheVinDecoder
             Assert.That(result.BodyStyle, Is.EqualTo("Electric Motorcycle/Scooter"));
             Assert.That(result.Model, Is.EqualTo("SEGWAY A series Professional"));
             Assert.That(result.Engine, Is.EqualTo("Electric Motor DC Permanent Magnet Brushless (1.3≤P<1.5 kW)"));
-            Assert.That(result.AdditionalProperties["Make"], Is.EqualTo("SEGWAY"));
+            Assert.That(result.AdditionalProperties["make"], Is.EqualTo("SEGWAY"));
             Assert.That(result.AdditionalProperties["LineModel"], Is.EqualTo("A series"));
             Assert.That(result.AdditionalProperties["MotorcycleType"], Is.EqualTo("Professional (专业型)"));
             Assert.That(result.AdditionalProperties["NetBrakeHP"], Is.EqualTo("1.0≤hp<1.2"));
@@ -162,7 +163,7 @@ namespace NicheVinDecoder
             Assert.That(result.BodyStyle, Is.EqualTo("RV Trailer [Standard] Enclosed Living Quarters")); // 0 = Standard RV
             Assert.That(result.Model, Is.EqualTo("Open Range 330BHS Travel Trailer")); // M = Open Range, A1 = 330BHS model
             Assert.That(result.AdditionalProperties["TrailerType"], Is.EqualTo("Ball Pull (Travel Trailer)")); // B = Ball Pull Travel Trailer
-            Assert.That(result.AdditionalProperties["Make"], Is.EqualTo("Open Range")); // M = Open Range
+            Assert.That(result.AdditionalProperties["make"], Is.EqualTo("Open Range")); // M = Open Range
             Assert.That(result.AdditionalProperties["AxleConfiguration"], Is.EqualTo("Two Axles (Tandem)")); // B = Two Axles
             Assert.That(result.AdditionalProperties["Length"], Is.EqualTo("38 ft - less than 40 ft")); // U = 38-40 ft
             Assert.That(result.AdditionalProperties["PlantLocation"], Is.EqualTo("3195 N. SR 5, Shipshewana, IN 46565")); // 3 = Shipshewana plant
@@ -171,6 +172,21 @@ namespace NicheVinDecoder
             Assert.That(result.AdditionalProperties["SequentialProductionNumber"], Is.EqualTo(3051));
             Assert.That(result.AdditionalProperties["VehicleType"], Is.EqualTo("Recreational Vehicle"));
             Assert.That(result.Warnings, Is.Empty);
+        }
+
+        [Test]
+        public void Legacy_Decode_Corvette1973()
+        {
+           
+
+            const string vin = "194371S114477";
+
+  
+            var result = VinDecoder.Decode(vin);
+
+            Assert.That("Chevrolet Corvette (C3)", Is.EqualTo(result.Manufacturer));
+            Assert.That("Corvette Coupe", Is.EqualTo(result.Model));
+            Assert.That(1971, Is.EqualTo(result.ModelYear));
         }
     }
 }

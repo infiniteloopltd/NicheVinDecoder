@@ -20,9 +20,35 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\legacy_model_map_part1.json" />
+    <None Remove="Resources\legacy_model_map_part2.json" />
+    <None Remove="Resources\legacy_model_map_part3.json" />
+    <None Remove="Resources\legacy_model_map_part4.json" />
+    <None Remove="Resources\legacy_model_map_part5.json" />
+    <None Remove="Resources\legacy_model_map_part6.json" />
+    <None Remove="Resources\legacy_model_map_part7.json" />
+    <None Remove="Resources\legacy_model_map_part8.json" />
+    <None Remove="Resources\legacy_model_map_part9.json" />
+    <None Remove="Resources\legacy_year_map.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\legacy_model_map_part1.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part2.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part3.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part4.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part5.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part6.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part7.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part8.json" />
+    <EmbeddedResource Include="Resources\legacy_model_map_part9.json" />
+    <EmbeddedResource Include="Resources\legacy_year_map.json" />
+  </ItemGroup>
   
   <ItemGroup>
-    <None Include="README.md" Pack="true" PackagePath=""/>
+    <None Include="README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
 
