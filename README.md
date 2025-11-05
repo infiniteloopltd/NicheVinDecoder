@@ -2,6 +2,8 @@
 
 A specialized VIN (Vehicle Identification Number) decoder library for vehicles not well-covered by standard US NHTSA VIN decoders, including international manufacturers, specialty vehicles, and niche market segments.
 
+Project supported by: https://www.vehicleregistrationapi.com/
+
 ## Purpose
 
 The standard NHTSA VIN decoder works well for mainstream automotive manufacturers, but falls short when dealing with:
