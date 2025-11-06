@@ -1,9 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFrameworks>net8.0;net48</TargetFrameworks>
     <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
+
 
  <!-- Explicitly enable packaging -->
     <IsPackable>true</IsPackable>
@@ -11,7 +13,7 @@
     
     <!-- Package metadata -->
     <PackageId>NicheVinDecoder</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.3</PackageVersion>
     <Authors>Infinite Loop Ltd</Authors>
     <Description>A specialized VIN decoder library for niche manufacturers</Description>
     <PackageProjectUrl>https://github.com/infiniteloopltd/NicheVinDecoder</PackageProjectUrl>
@@ -58,6 +60,7 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.8" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
     <PackageReference Include="Nunit" Version="4.4.0" />
+    <PackageReference Include="System.Text.Json" Version="9.0.10" />
 
   </ItemGroup>
 

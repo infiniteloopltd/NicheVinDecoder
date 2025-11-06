@@ -71,7 +71,10 @@ namespace NicheVinDecoder.Legacy
                 y.year_position <= vin.Length &&
                 !string.IsNullOrWhiteSpace(y.year_sequence))
             {
-                var seq = y.year_sequence.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+                var seq = y.year_sequence
+                    .Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(s => s.Trim())
+                    .ToArray();
                 var ch = vin[y.year_position - 1].ToString();
                 int idx = Array.IndexOf(seq, ch);
                 if (idx >= 0)
