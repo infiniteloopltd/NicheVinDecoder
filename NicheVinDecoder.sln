@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicheVinDecoder", "NicheVinDecoder.csproj", "{4CE70841-5072-4937-B2AA-97AA5793D29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicheVinTestHarness", "..\NicheVinTestHarness\NicheVinTestHarness.csproj", "{34478600-B3E5-4166-AEE9-E6C3193761CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CE70841-5072-4937-B2AA-97AA5793D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE70841-5072-4937-B2AA-97AA5793D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE70841-5072-4937-B2AA-97AA5793D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34478600-B3E5-4166-AEE9-E6C3193761CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34478600-B3E5-4166-AEE9-E6C3193761CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34478600-B3E5-4166-AEE9-E6C3193761CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34478600-B3E5-4166-AEE9-E6C3193761CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
