@@ -883,7 +883,108 @@
   },
   "VBK": {
     "make": "KTM (Austria, motorcycles)",
-    "vin_length": [17],
+    "vin_length": [ 17 ],
     "notes": "Use 10th character for 17-char years."
-  }
+  },
+
+    "029": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 4,
+      "start_year": 1995,
+      "year_sequence": "5,6,7,8",
+      "notes": "Derived from 12 Iowa VINs (R\u00b2=1.00); \u226590% dominance with N\u226510; detected at pos 4."
+    },
+    "039": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 4,
+      "start_year": 1995,
+      "year_sequence": "5,7,8",
+      "notes": "Derived from 13 Iowa VINs (R\u00b2=1.00); \u226590% dominance with N\u226510; detected at pos 4."
+    },
+    "049": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 8,
+      "start_year": 1981,
+      "year_sequence": "Y,8,0",
+      "notes": "Derived from 13 Iowa VINs (R\u00b2=0.89); \u226590% dominance with N\u226510; detected at pos 8."
+    },
+    "069": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 4,
+      "start_year": 1995,
+      "year_sequence": "5,6,7",
+      "notes": "Derived from 11 Iowa VINs (R\u00b2=1.00); \u226590% dominance with N\u226510; detected at pos 4."
+    },
+    "079": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 4,
+      "start_year": 1994,
+      "year_sequence": "4,5,6,7",
+      "notes": "Derived from 13 Iowa VINs (R\u00b2=1.00); \u226590% dominance with N\u226510; detected at pos 4."
+    },
+    "129": {
+      "make": "Rice",
+      "vin_length": [
+        15
+      ],
+      "year_position": 4,
+      "start_year": 1994,
+      "year_sequence": "4,5,6,7",
+      "notes": "Derived from 20 Iowa VINs (R\u00b2=0.82); \u226590% dominance with N\u226510; detected at pos 4."
+    },
+    "CLN": {
+      "make": "Coleman",
+      "vin_length": [
+        15
+      ],
+      "year_position": 8,
+      "start_year": 1974,
+      "year_sequence": "F,G,H,J,S,K,L,M",
+      "notes": "Derived from 289 Iowa VINs (R\u00b2=0.68); \u226590% dominance with N\u226510; detected at pos 8."
+    },
+    "CS1": {
+      "make": "Gmc",
+      "vin_length": [
+        15
+      ],
+      "year_position": 13,
+      "start_year": 1967,
+      "year_sequence": "0,1,2,3,4,5,7,8,9,I,Y",
+      "notes": "Derived from 35 Iowa VINs (R\u00b2=0.73); \u226590% dominance with N\u226510; detected at pos 13."
+    },
+    "GS0": {
+      "make": "Roose",
+      "vin_length": [
+        14
+      ],
+      "year_position": 12,
+      "start_year": 1990,
+      "year_sequence": "0,1,2,3,4,5,8",
+      "notes": "Derived from 105 Iowa VINs (R\u00b2=0.89); \u226590% dominance with N\u226510; detected at pos 12."
+    },
+    "RWS": {
+      "make": "Mack",
+      "vin_length": [
+        14
+      ],
+      "year_position": 10,
+      "start_year": 1978,
+      "year_sequence": "3,4,5",
+      "notes": "Derived from 16 Iowa VINs (R\u00b2=1.00); \u226590% dominance with N\u226510; detected at pos 10."
+    }
 }

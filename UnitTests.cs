@@ -1,5 +1,4 @@
 ﻿using NicheVinDecoder.Core.Factory;
-using NicheVinDecoder.Legacy;
 using NUnit.Framework;
 
 namespace NicheVinDecoder
@@ -184,9 +183,25 @@ namespace NicheVinDecoder
   
             var result = VinDecoder.Decode(vin);
 
-            Assert.That("Chevrolet Corvette (C3)", Is.EqualTo(result.Manufacturer));
+            Assert.That("Chevrolet", Is.EqualTo(result.Manufacturer));
             Assert.That("Corvette Coupe", Is.EqualTo(result.Model));
             Assert.That(1971, Is.EqualTo(result.ModelYear));
         }
+
+        [Test]
+        public void Legacy_Decode_Iowa_data()
+        {
+
+
+            const string vin = "3156K16T7S10612";
+
+
+            var result = VinDecoder.Decode(vin);
+
+            Assert.That("Aristocraft", Is.EqualTo(result.Manufacturer));
+            Assert.That("Land Commander", Is.EqualTo(result.Model));
+     
+        }
+
     }
 }

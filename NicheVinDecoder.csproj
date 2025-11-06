@@ -11,7 +11,7 @@
     
     <!-- Package metadata -->
     <PackageId>NicheVinDecoder</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Infinite Loop Ltd</Authors>
     <Description>A specialized VIN decoder library for niche manufacturers</Description>
     <PackageProjectUrl>https://github.com/infiniteloopltd/NicheVinDecoder</PackageProjectUrl>
@@ -22,6 +22,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\legacy_model_map_iowa_supplemental_hybrid_final.json" />
     <None Remove="Resources\legacy_model_map_part1.json" />
     <None Remove="Resources\legacy_model_map_part2.json" />
     <None Remove="Resources\legacy_model_map_part3.json" />
@@ -35,6 +36,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\legacy_model_map_iowa_supplemental_hybrid_final.json" />
     <EmbeddedResource Include="Resources\legacy_model_map_part1.json" />
     <EmbeddedResource Include="Resources\legacy_model_map_part2.json" />
     <EmbeddedResource Include="Resources\legacy_model_map_part3.json" />

@@ -41,7 +41,20 @@ namespace NicheVinDecoder.Legacy
                 if (models == null) continue;
 
                 foreach (var kv in models)
-                    combined[kv.Key] = kv.Value;
+                {
+                    if (combined.ContainsKey(kv.Key))
+                    {
+                        // Merge model_map dictionaries if the key already exists
+                        foreach (var modelKv in kv.Value.model_map)
+                        {
+                            combined[kv.Key].model_map[modelKv.Key] = modelKv.Value;
+                        }
+                    }
+                    else
+                    {
+                        combined[kv.Key] = kv.Value;
+                    }
+                }
             }
 
             return combined;
